@@ -2,4 +2,4 @@
 
 - 🍌 I'm pawel.
 - ⚙ I’m interested in programming and mechanical engineering.
-- 🌱 I’m currently learning web development and machine learning.
+- 🌱 I’m currently learning data science.
