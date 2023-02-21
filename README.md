@@ -1,4 +1,4 @@
-## H there, 👋
+## Hi there, 👋
   
 
 - 🍌 I'm Pawel.
